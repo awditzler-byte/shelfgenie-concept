@@ -1,0 +1,5 @@
+research/
+qa/
+node_modules/
+*.zip
+.DS_Store
